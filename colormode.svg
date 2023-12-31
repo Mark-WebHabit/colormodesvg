@@ -1,0 +1,88 @@
+<svg id="button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 353.25 148.57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ffce09;
+      }
+
+      .cls-3 {
+        fill: #fcd884;
+      }
+
+      .cls-4 {
+        fill: #fed900;
+      }
+
+      .cls-5 {
+        fill: #445c6d;
+      }
+    </style>
+    <image id="image" width="512" height="512" xlink:href="./images/cloud.png"/>
+    <image id="image-2" width="512" height="512" xlink:href="./images/building.png"/>
+  </defs>
+  <rect id="background" class="cls-1" x="136.56" y="282.71" width="352.94" height="86.21" transform="translate(-135.38 -283.13) rotate(0.18)"/>
+  <g id="star">
+    <g id="star-2" data-name="star">
+      <polygon id="star-2-2" data-name="star-2" class="cls-2" points="21.24 21.28 19.55 24.34 16.5 25.98 19.46 27.61 21.24 30.67 22.85 27.75 25.93 26.01 22.82 24.3 21.24 21.28"/>
+      <polygon id="star-3" class="cls-2" points="45.89 51.88 44.21 54.95 41.16 56.59 44.12 58.21 45.89 61.28 47.51 58.35 50.59 56.62 47.48 54.91 45.89 51.88"/>
+      <polygon id="star-4" class="cls-3" points="25.77 50.95 24.09 54.02 21.04 55.66 23.99 57.28 25.77 60.35 27.38 57.42 30.46 55.69 27.35 53.98 25.77 50.95"/>
+      <polygon id="star-5" class="cls-3" points="35.19 31.87 32.4 37.07 27.33 39.86 32.24 42.63 35.19 47.83 37.87 42.86 42.98 39.91 37.82 37 35.19 31.87"/>
+      <polygon id="star-6" class="cls-3" points="51.86 29.19 50.17 32.25 47.13 33.89 50.08 35.52 51.86 38.58 53.47 35.66 56.55 33.92 53.44 32.21 51.86 29.19"/>
+    </g>
+    <g id="star-3-2" data-name="star">
+      <polygon id="star-2-3" data-name="star-2" class="cls-2" points="22.73 21.46 21.05 24.52 18 26.17 20.96 27.79 22.73 30.86 24.35 27.93 27.42 26.19 24.32 24.48 22.73 21.46"/>
+      <polygon id="star-3-3" data-name="star-3" class="cls-2" points="47.39 52.07 45.71 55.13 42.66 56.77 45.62 58.4 47.39 61.46 49.01 58.54 52.08 56.8 48.98 55.09 47.39 52.07"/>
+      <polygon id="star-4-2" data-name="star-4" class="cls-3" points="27.27 51.14 25.58 54.2 22.54 55.84 25.49 57.47 27.27 60.53 28.88 57.61 31.96 55.87 28.85 54.16 27.27 51.14"/>
+      <polygon id="star-5-2" data-name="star-5" class="cls-3" points="36.69 32.05 33.89 37.26 28.83 40.05 33.73 42.81 36.69 48.02 39.37 43.04 44.47 40.09 39.32 37.19 36.69 32.05"/>
+      <polygon id="star-6-2" data-name="star-6" class="cls-3" points="53.35 29.37 51.67 32.44 48.62 34.08 51.58 35.7 53.35 38.77 54.97 35.84 58.04 34.1 54.94 32.4 53.35 29.37"/>
+    </g>
+    <g id="star-4-3" data-name="star">
+      <polygon id="star-2-4" data-name="star-2" class="cls-2" points="21.24 21.28 19.55 24.34 16.5 25.98 19.46 27.61 21.24 30.67 22.85 27.75 25.93 26.01 22.82 24.3 21.24 21.28"/>
+      <polygon id="star-3-4" data-name="star-3" class="cls-2" points="45.89 51.88 44.21 54.95 41.16 56.59 44.12 58.21 45.89 61.28 47.51 58.35 50.59 56.62 47.48 54.91 45.89 51.88"/>
+      <polygon id="star-4-4" data-name="star-4" class="cls-3" points="25.77 50.95 24.09 54.02 21.04 55.66 23.99 57.28 25.77 60.35 27.38 57.42 30.46 55.69 27.35 53.98 25.77 50.95"/>
+      <polygon id="star-5-3" data-name="star-5" class="cls-3" points="35.19 31.87 32.4 37.07 27.33 39.86 32.24 42.63 35.19 47.83 37.87 42.86 42.98 39.91 37.82 37 35.19 31.87"/>
+      <polygon id="star-6-3" data-name="star-6" class="cls-3" points="51.86 29.19 50.17 32.25 47.13 33.89 50.08 35.52 51.86 38.58 53.47 35.66 56.55 33.92 53.44 32.21 51.86 29.19"/>
+    </g>
+  </g>
+  <image id="moon" width="512" height="512" transform="matrix(-0.12, 0, 0, 0.12, 63.7, 7.81)" xlink:href="./images/moon.png"/>
+  <g id="sun">
+    <g>
+      <circle id="body" class="cls-4" cx="34.99" cy="38.79" r="19.06"/>
+      <g id="glow">
+        <polygon id="glow-2" class="cls-4" points="11.52 19.09 11.75 16.09 15.4 16.09 19.28 20.03 19.64 23.09 15.46 23.15 11.52 19.09"/>
+        <polygon id="glow-3" class="cls-4" points="32.44 8.78 34.73 6.83 37.31 9.41 37.26 14.95 35.34 17.35 32.35 14.44 32.44 8.78"/>
+        <polygon id="glow-4" class="cls-4" points="56.2 16.04 59.02 17.08 58.02 20.59 53.17 23.25 50.13 22.75 51.22 18.71 56.2 16.04"/>
+        <polygon id="glow-5" class="cls-4" points="65.76 36.27 67.72 38.55 65.15 41.14 59.62 41.11 57.2 39.2 60.11 36.2 65.76 36.27"/>
+        <polygon id="glow-6" class="cls-4" points="11.76 36.1 13.72 38.38 11.15 40.97 5.62 40.94 3.2 39.03 6.1 36.03 11.76 36.1"/>
+        <polygon id="glow-7" class="cls-4" points="50.05 57.97 50.28 54.97 53.93 54.97 57.81 58.91 58.17 61.97 53.99 62.03 50.05 57.97"/>
+        <polygon id="glow-8" class="cls-4" points="16.79 54.54 19.61 55.59 18.61 59.1 13.76 61.75 10.72 61.25 11.81 57.22 16.79 54.54"/>
+        <polygon id="glow-9" class="cls-4" points="32.54 61.89 34.84 59.94 37.41 62.53 37.36 68.06 35.44 70.47 32.45 67.55 32.54 61.89"/>
+      </g>
+    </g>
+  </g>
+  <g id="road">
+    <g>
+      <path id="surface" class="cls-5" d="M136.39,367.92l353,1.06s2.82,50.06-52.95,61.68l-246.82.08S136.63,421.8,136.39,367.92Z" transform="translate(-136.39 -282.17)"/>
+      <g id="stripe">
+        <rect id="stripe-2" class="cls-1" x="23.29" y="107.87" width="61.18" height="18.35"/>
+        <rect id="stripe-3" class="cls-1" x="104.35" y="107.63" width="61.18" height="18.35"/>
+        <rect id="stripe-4" class="cls-1" x="186.24" y="108.16" width="61.18" height="18.35"/>
+        <rect id="stripe-5" class="cls-1" x="268.18" y="107.99" width="61.18" height="18.35"/>
+      </g>
+    </g>
+  </g>
+  <g id="building">
+    <g id="cloud">
+      <use id="cloud-2" data-name="cloud" transform="translate(118.09 18.07) scale(0.08)" xlink:href="#image"/>
+      <use id="cloud-3" data-name="cloud" transform="translate(200.85 17.19) scale(0.08)" xlink:href="#image"/>
+      <use id="cloud-4" data-name="cloud" transform="translate(282.26 31.07) scale(0.08)" xlink:href="#image"/>
+    </g>
+    <use id="building-2" data-name="building" transform="translate(65.04 36.72) scale(0.12 0.1)" xlink:href="#image-2"/>
+    <use id="building-3" data-name="building" transform="translate(144.04 39.01) scale(0.12 0.1)" xlink:href="#image-2"/>
+    <use id="building-4" data-name="building" transform="translate(221.51 37.25) scale(0.12 0.1)" xlink:href="#image-2"/>
+  </g>
+</svg>
